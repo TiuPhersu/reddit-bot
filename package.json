@@ -1,0 +1,24 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "reddit-bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiuPhersu/reddit-bot.git"
+  },
+  "author": "Andrew Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiuPhersu/reddit-bot/issues"
+  },
+  "homepage": "https://github.com/TiuPhersu/reddit-bot#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.2"
+  }
+}
